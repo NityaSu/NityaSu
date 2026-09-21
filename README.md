@@ -33,10 +33,9 @@
 
 **Program, or be programmed** — *Douglas Rushkoff*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Nitya;Welcome+to+my+GitHub!" alt="Typing SVG" />
+### Hi, I'm Nitya
 
 </div>
-## Hi there 👋
 
 <!--
 **NityaSu/NityaSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
